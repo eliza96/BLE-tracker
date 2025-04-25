@@ -13,6 +13,7 @@ export default function About() {
             alt="Decorative SVG"
             className="wave-1"
           />
+          <h1>about</h1>
         </div>
       </main>
     </div>
